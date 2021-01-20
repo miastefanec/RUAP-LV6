@@ -41,7 +41,7 @@ namespace CallRequestResponseService
                             new StringTable()
                             {
                                 ColumnNames = new string[] {"Recency", "Frequency", "Monetary", "Time", "Class"},
-                                Values = new string[,] {  { "0", "0", "0", "0", "0" },  { "0", "0", "0", "0", "0" },  }
+                                Values = new string[,] {  { "0", "13", "3250", "28", "1" },  { "2", "7", "1750", "14", "1" },  }
                             }
                         },
                     },
